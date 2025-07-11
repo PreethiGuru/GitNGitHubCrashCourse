@@ -1,5 +1,7 @@
 # Git and GitHub for Beginners - Crash Course from freeCodeCamp
-https://www.youtube.com/watch?v=RGOj5yH7evk&t=1900s
+
+I am using this repo as a hands-on for this video
+Link: https://www.youtube.com/watch?v=RGOj5yH7evk&t=1900s
 
 Learn about Git and GitHub in this tutorial. These are important tools for all developers to understand. Git and GitHub make it easier to manage different software versions and make it easier for multiple people to work on the same software project.
 
